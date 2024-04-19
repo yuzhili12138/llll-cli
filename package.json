@@ -1,0 +1,30 @@
+{
+  "name": "llll-cli",
+  "version": "1.0.2",
+  "description": "llll-cli 脚手架搭建",
+  "main": "./bin/index.js",
+  "type": "commonjs",
+  "bin": {
+    "llll-cli": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^9.4.1",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^11.1.0",
+    "inquirer": "^8.0.0",
+    "log-symbols": "^4.0.0",
+    "ora": "^5.0.0",
+    "path": "^0.12.7",
+    "update-notifier": "^4.0.0"
+  }
+}
