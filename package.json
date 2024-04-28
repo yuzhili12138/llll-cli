@@ -1,6 +1,6 @@
 {
   "name": "llll-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "llll-cli 脚手架搭建",
   "main": "./bin/index.js",
   "type": "commonjs",
